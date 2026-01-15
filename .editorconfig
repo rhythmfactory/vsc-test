@@ -1,0 +1,20 @@
+root = true
+
+
+[*]
+
+# Change these settings to your own preference
+# インデント時のスタイルを指定
+indent_style = tab
+# インデント時のサイズを指定
+indent_size = 4
+
+# We recommend you to keep these unchanged
+# 改行コードの指定
+end_of_line = lf
+# 文字コードの指定
+charset = utf-8
+# 文末のスペースを取り除くかどうかの指定
+trim_trailing_whitespace = true
+# 最終行に改行を入れるかどうかの指定
+insert_final_newline = true
